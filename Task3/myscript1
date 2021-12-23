@@ -1,0 +1,5 @@
+#!/bin/bash
+#comment
+module add openmpi
+mpic++ main1.cpp -o main1
+mpirun -np 2 ./main1

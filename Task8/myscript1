@@ -1,0 +1,9 @@
+#!/bin/bash
+#comment
+module add openmpi
+mpic++ main1.cpp -o main1
+for ((i = 0; i < 6; i++))
+do
+echo $i
+mpirun -np $((2**i)) --oversubscribe ./main1 >> output1.txt
+done

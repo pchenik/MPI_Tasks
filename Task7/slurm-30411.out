@@ -1,0 +1,196 @@
+0
+For consequtive variant and N = 64 time of execution equals to 4.7226e-05
+For parallel variant and N = 64 time of execution equals to 2.0851e-05
+
+For consequtive variant and N = 128 time of execution equals to 4.3206e-05
+For parallel variant and N = 128 time of execution equals to 4.2974e-05
+
+For consequtive variant and N = 1024 time of execution equals to 0.000410522
+For parallel variant and N = 1024 time of execution equals to 0.000410576
+
+For consequtive variant and N = 16384 time of execution equals to 0.00828971
+For parallel variant and N = 16384 time of execution equals to 0.00810147
+
+For consequtive variant and N = 32768 time of execution equals to 0.0162835
+For parallel variant and N = 32768 time of execution equals to 0.0150355
+
+For consequtive variant and N = 131072 time of execution equals to 0.0641874
+For parallel variant and N = 131072 time of execution equals to 0.0639026
+
+For consequtive variant and N = 1048576 time of execution equals to 0.575576
+For parallel variant and N = 1048576 time of execution equals to 0.573546
+
+For consequtive variant and N = 16777216 time of execution equals to 9.39705
+For parallel variant and N = 16777216 time of execution equals to 9.6201
+
+For consequtive variant and N = 67108864 time of execution equals to 40.1304
+For parallel variant and N = 67108864 time of execution equals to 40.078
+
+1
+For consequtive variant and N = 64 time of execution equals to 5.8951e-05
+For parallel variant and N = 64 time of execution equals to 9.0582e-05
+
+For consequtive variant and N = 128 time of execution equals to 4.8943e-05
+For parallel variant and N = 128 time of execution equals to 3.1238e-05
+
+For consequtive variant and N = 1024 time of execution equals to 0.000457182
+For parallel variant and N = 1024 time of execution equals to 0.000289983
+
+For consequtive variant and N = 16384 time of execution equals to 0.00866432
+For parallel variant and N = 16384 time of execution equals to 0.00460167
+
+For consequtive variant and N = 32768 time of execution equals to 0.016336
+For parallel variant and N = 32768 time of execution equals to 0.00807379
+
+For consequtive variant and N = 131072 time of execution equals to 0.0642852
+For parallel variant and N = 131072 time of execution equals to 0.0329911
+
+For consequtive variant and N = 1048576 time of execution equals to 0.575307
+For parallel variant and N = 1048576 time of execution equals to 0.296059
+
+For consequtive variant and N = 16777216 time of execution equals to 9.5709
+For parallel variant and N = 16777216 time of execution equals to 4.83255
+
+For consequtive variant and N = 67108864 time of execution equals to 40.257
+For parallel variant and N = 67108864 time of execution equals to 20.5476
+
+2
+For consequtive variant and N = 64 time of execution equals to 4.7402e-05
+For parallel variant and N = 64 time of execution equals to 0.0018901
+
+For consequtive variant and N = 128 time of execution equals to 3.8978e-05
+For parallel variant and N = 128 time of execution equals to 2.8004e-05
+
+For consequtive variant and N = 1024 time of execution equals to 0.000381967
+For parallel variant and N = 1024 time of execution equals to 0.00143082
+
+For consequtive variant and N = 16384 time of execution equals to 0.00701484
+For parallel variant and N = 16384 time of execution equals to 0.00209134
+
+For consequtive variant and N = 32768 time of execution equals to 0.0147537
+For parallel variant and N = 32768 time of execution equals to 0.00432459
+
+For consequtive variant and N = 131072 time of execution equals to 0.0644406
+For parallel variant and N = 131072 time of execution equals to 0.0202992
+
+For consequtive variant and N = 1048576 time of execution equals to 0.573657
+For parallel variant and N = 1048576 time of execution equals to 0.162628
+
+For consequtive variant and N = 16777216 time of execution equals to 9.39553
+For parallel variant and N = 16777216 time of execution equals to 2.58288
+
+For consequtive variant and N = 67108864 time of execution equals to 40.1515
+For parallel variant and N = 67108864 time of execution equals to 10.9692
+
+3
+For consequtive variant and N = 64 time of execution equals to 5.8324e-05
+For parallel variant and N = 64 time of execution equals to 0.00290308
+
+For consequtive variant and N = 128 time of execution equals to 5.274e-05
+For parallel variant and N = 128 time of execution equals to 4.8829e-05
+
+For consequtive variant and N = 1024 time of execution equals to 0.000528379
+For parallel variant and N = 1024 time of execution equals to 0.00401165
+
+For consequtive variant and N = 16384 time of execution equals to 0.0101291
+For parallel variant and N = 16384 time of execution equals to 0.0019252
+
+For consequtive variant and N = 32768 time of execution equals to 0.02123
+For parallel variant and N = 32768 time of execution equals to 0.00388197
+
+For consequtive variant and N = 131072 time of execution equals to 0.0898711
+For parallel variant and N = 131072 time of execution equals to 0.0115035
+
+For consequtive variant and N = 1048576 time of execution equals to 0.576404
+For parallel variant and N = 1048576 time of execution equals to 0.099707
+
+For consequtive variant and N = 16777216 time of execution equals to 10.4354
+For parallel variant and N = 16777216 time of execution equals to 1.66481
+
+For consequtive variant and N = 67108864 time of execution equals to 44.6204
+For parallel variant and N = 67108864 time of execution equals to 7.00768
+
+4
+For consequtive variant and N = 64 time of execution equals to 5.801e-05
+For parallel variant and N = 64 time of execution equals to 0.0155235
+
+For consequtive variant and N = 128 time of execution equals to 6.1176e-05
+For parallel variant and N = 128 time of execution equals to 0.00425036
+
+For consequtive variant and N = 1024 time of execution equals to 0.000561209
+For parallel variant and N = 1024 time of execution equals to 0.0077477
+
+For consequtive variant and N = 16384 time of execution equals to 0.010525
+For parallel variant and N = 16384 time of execution equals to 0.00135417
+
+For consequtive variant and N = 32768 time of execution equals to 0.0211293
+For parallel variant and N = 32768 time of execution equals to 0.00282123
+
+For consequtive variant and N = 131072 time of execution equals to 0.0918277
+For parallel variant and N = 131072 time of execution equals to 0.011585
+
+For consequtive variant and N = 1048576 time of execution equals to 0.822589
+For parallel variant and N = 1048576 time of execution equals to 0.0940613
+
+For consequtive variant and N = 16777216 time of execution equals to 14.9203
+For parallel variant and N = 16777216 time of execution equals to 1.59184
+
+For consequtive variant and N = 67108864 time of execution equals to 63.5124
+For parallel variant and N = 67108864 time of execution equals to 6.62915
+
+5
+For consequtive variant and N = 64 time of execution equals to 6.4571e-05
+For parallel variant and N = 64 time of execution equals to 0.015969
+
+For consequtive variant and N = 128 time of execution equals to 5.46e-05
+For parallel variant and N = 128 time of execution equals to 0.0260086
+
+For consequtive variant and N = 1024 time of execution equals to 0.000475579
+For parallel variant and N = 1024 time of execution equals to 0.00262481
+
+For consequtive variant and N = 16384 time of execution equals to 0.0216429
+For parallel variant and N = 16384 time of execution equals to 0.00224054
+
+For consequtive variant and N = 32768 time of execution equals to 0.0409629
+For parallel variant and N = 32768 time of execution equals to 0.0036284
+
+For consequtive variant and N = 131072 time of execution equals to 0.184641
+For parallel variant and N = 131072 time of execution equals to 0.0159145
+
+For consequtive variant and N = 1048576 time of execution equals to 1.84379
+For parallel variant and N = 1048576 time of execution equals to 0.166286
+
+For consequtive variant and N = 16777216 time of execution equals to 27.3038
+For parallel variant and N = 16777216 time of execution equals to 2.17828
+
+For consequtive variant and N = 67108864 time of execution equals to 115.961
+For parallel variant and N = 67108864 time of execution equals to 8.93708
+
+6
+For consequtive variant and N = 64 time of execution equals to 7.7748e-05
+For parallel variant and N = 64 time of execution equals to 0.0400649
+
+For consequtive variant and N = 128 time of execution equals to 5.321e-05
+For parallel variant and N = 128 time of execution equals to 0.0642871
+
+For consequtive variant and N = 1024 time of execution equals to 0.000493305
+For parallel variant and N = 1024 time of execution equals to 0.0264564
+
+For consequtive variant and N = 16384 time of execution equals to 0.0270252
+For parallel variant and N = 16384 time of execution equals to 0.00553815
+
+For consequtive variant and N = 32768 time of execution equals to 0.0577096
+For parallel variant and N = 32768 time of execution equals to 0.00401944
+
+For consequtive variant and N = 131072 time of execution equals to 0.266019
+For parallel variant and N = 131072 time of execution equals to 0.0197904
+
+For consequtive variant and N = 1048576 time of execution equals to 2.95968
+For parallel variant and N = 1048576 time of execution equals to 0.211121
+
+For consequtive variant and N = 16777216 time of execution equals to 53.9293
+For parallel variant and N = 16777216 time of execution equals to 3.34733
+
+For consequtive variant and N = 67108864 time of execution equals to 229.813
+For parallel variant and N = 67108864 time of execution equals to 14.9034
+

@@ -1,0 +1,9 @@
+min = 66; clock time = 0.15306
+min = 56; clock time = 0.106647
+min = 65; clock time = 0.108342
+min = 65; clock time = 0.0958473
+
+min = 57; clock time = 0.15238
+min = 68; clock time = 0.121834
+min = 39; clock time = 0.105424
+min = 43; clock time = 0.0961978

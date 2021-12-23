@@ -1,0 +1,84 @@
+Dispatch times = 10; N = 64; clock time = 1.796e-05
+Dispatch times = 50; N = 64; clock time = 3.6768e-05
+Dispatch times = 100; N = 64; clock time = 7.5316e-05
+Dispatch times = 500; N = 64; clock time = 0.000379329
+Dispatch times = 1000; N = 64; clock time = 0.000743933
+Dispatch times = 2000; N = 64; clock time = 0.0014805
+Dispatch times = 5000; N = 64; clock time = 0.00357462
+Dispatch times = 10000; N = 64; clock time = 0.00722915
+Dispatch times = 50000; N = 64; clock time = 0.0356742
+Dispatch times = 100000; N = 64; clock time = 0.071713
+Dispatch times = 500000; N = 64; clock time = 0.357499
+0
+Dispatch times = 10; N = 128; clock time = 6.6204e-05
+Dispatch times = 50; N = 128; clock time = 0.000190829
+Dispatch times = 100; N = 128; clock time = 0.000109387
+Dispatch times = 500; N = 128; clock time = 0.000489765
+Dispatch times = 1000; N = 128; clock time = 0.000979009
+Dispatch times = 2000; N = 128; clock time = 0.00195495
+Dispatch times = 5000; N = 128; clock time = 0.0048983
+Dispatch times = 10000; N = 128; clock time = 0.00977226
+Dispatch times = 50000; N = 128; clock time = 0.0488777
+Dispatch times = 100000; N = 128; clock time = 0.0977901
+Dispatch times = 500000; N = 128; clock time = 0.49099
+1
+Dispatch times = 10; N = 1024; clock time = 3.4985e-05
+Dispatch times = 50; N = 1024; clock time = 0.000109811
+Dispatch times = 100; N = 1024; clock time = 0.00014574
+Dispatch times = 500; N = 1024; clock time = 0.000690237
+Dispatch times = 1000; N = 1024; clock time = 0.00138099
+Dispatch times = 2000; N = 1024; clock time = 0.00277097
+Dispatch times = 5000; N = 1024; clock time = 0.00689737
+Dispatch times = 10000; N = 1024; clock time = 0.0138
+Dispatch times = 50000; N = 1024; clock time = 0.0689396
+Dispatch times = 100000; N = 1024; clock time = 0.137973
+Dispatch times = 500000; N = 1024; clock time = 0.686885
+2
+Dispatch times = 10; N = 16384; clock time = 0.000234213
+Dispatch times = 50; N = 16384; clock time = 0.000477427
+Dispatch times = 100; N = 16384; clock time = 0.000741129
+Dispatch times = 500; N = 16384; clock time = 0.00353218
+Dispatch times = 1000; N = 16384; clock time = 0.00695475
+Dispatch times = 2000; N = 16384; clock time = 0.0137832
+Dispatch times = 5000; N = 16384; clock time = 0.0344653
+Dispatch times = 10000; N = 16384; clock time = 0.0687947
+Dispatch times = 50000; N = 16384; clock time = 0.344132
+Dispatch times = 100000; N = 16384; clock time = 0.687427
+Dispatch times = 500000; N = 16384; clock time = 3.43855
+3
+Dispatch times = 10; N = 32768; clock time = 0.000121596
+Dispatch times = 50; N = 32768; clock time = 0.000668325
+Dispatch times = 100; N = 32768; clock time = 0.00125486
+Dispatch times = 500; N = 32768; clock time = 0.0060648
+Dispatch times = 1000; N = 32768; clock time = 0.0119926
+Dispatch times = 2000; N = 32768; clock time = 0.0238735
+Dispatch times = 5000; N = 32768; clock time = 0.0596893
+Dispatch times = 10000; N = 32768; clock time = 0.120193
+Dispatch times = 50000; N = 32768; clock time = 0.596894
+Dispatch times = 100000; N = 32768; clock time = 1.19325
+Dispatch times = 500000; N = 32768; clock time = 5.96518
+4
+Dispatch times = 10; N = 131072; clock time = 0.00046156
+Dispatch times = 50; N = 131072; clock time = 0.00216277
+Dispatch times = 100; N = 131072; clock time = 0.00415375
+Dispatch times = 500; N = 131072; clock time = 0.020336
+Dispatch times = 1000; N = 131072; clock time = 0.0406921
+Dispatch times = 2000; N = 131072; clock time = 0.0810755
+Dispatch times = 5000; N = 131072; clock time = 0.203268
+Dispatch times = 10000; N = 131072; clock time = 0.406228
+Dispatch times = 50000; N = 131072; clock time = 2.03019
+Dispatch times = 100000; N = 131072; clock time = 4.07936
+Dispatch times = 500000; N = 131072; clock time = 20.448
+5
+Dispatch times = 10; N = 1048576; clock time = 0.00424079
+Dispatch times = 50; N = 1048576; clock time = 0.0184775
+Dispatch times = 100; N = 1048576; clock time = 0.0371549
+Dispatch times = 500; N = 1048576; clock time = 0.184563
+Dispatch times = 1000; N = 1048576; clock time = 0.370082
+Dispatch times = 2000; N = 1048576; clock time = 0.738832
+Dispatch times = 5000; N = 1048576; clock time = 1.8454
+Dispatch times = 10000; N = 1048576; clock time = 3.69011
+Dispatch times = 50000; N = 1048576; clock time = 18.4435
+Dispatch times = 100000; N = 1048576; clock time = 36.7639
+Dispatch times = 500000; N = 1048576; clock time = 184.334
+6

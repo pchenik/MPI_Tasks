@@ -1,0 +1,59 @@
+64; clock time = 0.000166292
+128; clock time = 0.000192622
+1024; clock time = 0.00147805
+16384; clock time = 0.0202773
+32768; clock time = 0.0380967
+131072; clock time = 0.151918
+1048576; clock time = 1.23256
+16777216; clock time = 17.4426
+67108864; clock time = 70.3923
+
+64; clock time = 0.000247238
+128; clock time = 7.508e-05
+1024; clock time = 0.000687238
+16384; clock time = 0.00746471
+32768; clock time = 0.0152864
+131072; clock time = 0.0607381
+1048576; clock time = 0.492255
+16777216; clock time = 6.68276
+67108864; clock time = 27.7975
+
+64; clock time = 0.000471359
+128; clock time = 0.00662822
+1024; clock time = 0.00361366
+16384; clock time = 0.00589859
+32768; clock time = 0.0114083
+131072; clock time = 0.0440657
+1048576; clock time = 0.358783
+16777216; clock time = 4.85831
+67108864; clock time = 19.9078
+
+64; clock time = 0.043251
+128; clock time = 0.00745556
+1024; clock time = 0.00103232
+16384; clock time = 0.003074
+32768; clock time = 0.00601599
+131072; clock time = 0.0235621
+1048576; clock time = 0.191016
+16777216; clock time = 2.59273
+67108864; clock time = 10.42
+
+64; clock time = 0.050197
+128; clock time = 0.0133934
+1024; clock time = 0.00122369
+16384; clock time = 0.0094306
+32768; clock time = 0.00300702
+131072; clock time = 0.0170249
+1048576; clock time = 0.231555
+16777216; clock time = 2.31497
+67108864; clock time = 8.42891
+
+64; clock time = 0.0764413
+128; clock time = 0.0211259
+1024; clock time = 0.000987485
+16384; clock time = 0.00607228
+32768; clock time = 0.00955261
+131072; clock time = 0.0233351
+1048576; clock time = 0.182622
+16777216; clock time = 2.10368
+67108864; clock time = 35.2911
